@@ -1,0 +1,6 @@
+my_string=input()
+
+
+
+
+
