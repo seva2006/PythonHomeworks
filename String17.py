@@ -1,6 +1,0 @@
-my_string=input()
-
-
-
-
-
