@@ -1,0 +1,5 @@
+Input_Sentence=str(input("Input sentence:"))
+replace=input("Replace:")
+new=input("With:")
+NewInput=Input_Sentence.replace(replace,new)
+print("Output: {}".format(NewInput))
