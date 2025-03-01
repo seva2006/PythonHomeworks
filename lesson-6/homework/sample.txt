@@ -1,0 +1,6 @@
+A mass of 1 slug, when attached to a spring, stretches it 2 feet
+and then comes to rest in the equilibrium  position. Starting at
+t 5 0, an external force equal to f (t) 5 8 sin 4t is applied to the
+system. Find the equation of motion if the surrounding medium
+offers a damping force that is numerically equal to 8 times the
+instantaneous velocity.

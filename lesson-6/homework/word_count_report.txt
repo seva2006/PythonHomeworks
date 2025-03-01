@@ -1,0 +1,8 @@
+Word Count Report
+Total Words: 67
+Top 5 Words:
+to - 5
+the - 5
+a - 3
+of - 2
+t - 2
